@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mastery Course - 2D", "Mastery Course - 2D.csproj", "{D0282E51-1227-0C06-4784-B5A5529C255F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mastery Course - 2D.Editor", "Mastery Course - 2D.Editor.csproj", "{02F7F2D9-56A6-0D9A-F15B-03D04416B2CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0282E51-1227-0C06-4784-B5A5529C255F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0282E51-1227-0C06-4784-B5A5529C255F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0282E51-1227-0C06-4784-B5A5529C255F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0282E51-1227-0C06-4784-B5A5529C255F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02F7F2D9-56A6-0D9A-F15B-03D04416B2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02F7F2D9-56A6-0D9A-F15B-03D04416B2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02F7F2D9-56A6-0D9A-F15B-03D04416B2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02F7F2D9-56A6-0D9A-F15B-03D04416B2CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
