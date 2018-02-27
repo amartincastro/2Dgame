@@ -338,6 +338,21 @@
     <Compile Include="Assets\Scripts\PlayerMovementController.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Art\Platformer Art\Base pack\Enemies\enemies_spritesheet.txt" />
+    <None Include="Assets\Art\Platformer Art\Base pack\HUD\hud_spritesheet.xml" />
+    <None Include="Assets\Art\Platformer Art\Base pack\Items\items_spritesheet.xml" />
+    <None Include="Assets\Art\Platformer Art\Base pack\Player\p1_spritesheet.txt" />
+    <None Include="Assets\Art\Platformer Art\Base pack\Player\p2_spritesheet.txt" />
+    <None Include="Assets\Art\Platformer Art\Base pack\Player\p3_spritesheet.txt" />
+    <None Include="Assets\Art\Platformer Art\Base pack\Tiles\tiles_spritesheet.xml" />
+    <None Include="Assets\Art\Platformer Art\Extra animations and enemies\Spritesheets\alienBeige.xml" />
+    <None Include="Assets\Art\Platformer Art\Extra animations and enemies\Spritesheets\alienBlue.xml" />
+    <None Include="Assets\Art\Platformer Art\Extra animations and enemies\Spritesheets\alienGreen.xml" />
+    <None Include="Assets\Art\Platformer Art\Extra animations and enemies\Spritesheets\alienPink.xml" />
+    <None Include="Assets\Art\Platformer Art\Extra animations and enemies\Spritesheets\alienYellow.xml" />
+    <None Include="Assets\Art\Platformer Art\Extra animations and enemies\Spritesheets\aliens.xml" />
+    <None Include="Assets\Art\Platformer Art\Extra animations and enemies\Spritesheets\enemies.xml" />
+    <None Include="Assets\Art\Platformer Art\Mushroom expansion\PNG\spritesheet.xml" />
     <None Include="Assets\Cinemachine\ReleaseNotes.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
